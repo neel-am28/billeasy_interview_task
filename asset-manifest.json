@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/billeasy_interview_task/static/css/main.f514aa1e.chunk.css",
+    "main.js": "/billeasy_interview_task/static/js/main.d3d1ce0d.chunk.js",
+    "main.js.map": "/billeasy_interview_task/static/js/main.d3d1ce0d.chunk.js.map",
+    "runtime-main.js": "/billeasy_interview_task/static/js/runtime-main.aa9e8c19.js",
+    "runtime-main.js.map": "/billeasy_interview_task/static/js/runtime-main.aa9e8c19.js.map",
+    "static/js/2.a777e1b5.chunk.js": "/billeasy_interview_task/static/js/2.a777e1b5.chunk.js",
+    "static/js/2.a777e1b5.chunk.js.map": "/billeasy_interview_task/static/js/2.a777e1b5.chunk.js.map",
+    "index.html": "/billeasy_interview_task/index.html",
+    "static/css/main.f514aa1e.chunk.css.map": "/billeasy_interview_task/static/css/main.f514aa1e.chunk.css.map",
+    "static/js/2.a777e1b5.chunk.js.LICENSE.txt": "/billeasy_interview_task/static/js/2.a777e1b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa9e8c19.js",
+    "static/js/2.a777e1b5.chunk.js",
+    "static/css/main.f514aa1e.chunk.css",
+    "static/js/main.d3d1ce0d.chunk.js"
+  ]
+}
