@@ -4,7 +4,7 @@ import Modal from './Modal'
 
 function Gallery() {
   const [images, setImages] = useState([])
-  const publicAPI = 'http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0'
+  const publicAPI = 'https://www.mocky.io/v2/5ecb5c353000008f00ddd5a0'
   const [imgSrc, setImgSrc] = useState('')
   const [showModal, setShowModal] = useState(false)
 
